@@ -10,7 +10,7 @@ Put the following in the `<head>` or before the `</body>` of your website:
 
 ```html
 <head>
-<script src="http://jonsuh.github.io/pray-for-paris/pray-for-paris.min.js" async></script>
+<script src="https://jonsuh.github.io/pray-for-paris/pray-for-paris.min.js" async></script>
 </head>
 ```
 
